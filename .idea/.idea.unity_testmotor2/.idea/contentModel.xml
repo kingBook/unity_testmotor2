@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Administrator\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_unity_testmotor2.-267452150.00" t="ExcludeRecursive" />
+    <e p="D:\kingBook\projects\unity_testmotor2" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="CityMotoRacer" t="Include">
+          <e p="Plugins" t="Include">
+            <e p="Pixelplacement" t="Include">
+              <e p="iTween" t="Include">
+                <e p="iTween.cs" t="Include" />
+                <e p="ReadMe!" t="Include">
+                  <e p="ReadMe!.txt" t="Include" />
+                </e>
+                <e p="Sample" t="Include">
+                  <e p="MoveSample.cs" t="Include" />
+                  <e p="RotateSample.cs" t="Include" />
+                  <e p="SampleInfo.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="BIKECamera.cs" t="Include" />
+            <e p="CloseCall.cs" t="Include" />
+            <e p="coinControl.cs" t="Include" />
+            <e p="EndScoreDisplayer.cs" t="Include" />
+            <e p="floatTruncateTest.cs" t="Include" />
+            <e p="GamePlayController.cs" t="Include" />
+            <e p="Hard Surface Free" t="Include">
+              <e p="Editor" t="Include">
+                <e p="Reset Fresnel Reflection Value.cs" t="Include" />
+              </e>
+              <e p="HardSurface Shaders" t="Include">
+                <e p="HardSurface Free Cut Out Bump.shader" t="Include" />
+                <e p="HardSurface Free Cut Out Diffuse.shader" t="Include" />
+                <e p="HardSurface Free Cut Out Opaque Bump.shader" t="Include" />
+                <e p="HardSurface Free Cut Out Opaque Diffuse.shader" t="Include" />
+                <e p="HardSurface Free Cut Out Opaque Specular.shader" t="Include" />
+                <e p="HardSurface Free Cut Out Specular.shader" t="Include" />
+                <e p="HardSurface Free Opaque Bump.shader" t="Include" />
+                <e p="HardSurface Free Opaque Diffuse.shader" t="Include" />
+                <e p="HardSurface Free Opaque Specular.shader" t="Include" />
+                <e p="HardSurface Free Opaque.shader" t="Include" />
+                <e p="HardSurface Free Transparent Bump.shader" t="Include" />
+                <e p="HardSurface Free Transparent Diffuse.shader" t="Include" />
+                <e p="HardSurface Free Transparent Specular.shader" t="Include" />
+                <e p="HardSurface Free Transparent.shader" t="Include" />
+                <e p="HardSurface SFX Depth Write Only.shader" t="Include" />
+                <e p="HardSurfacePro Hidden Front Cut Out Bump.shader" t="Include" />
+                <e p="HardSurfacePro Hidden Front Cut Out Diffuse.shader" t="Include" />
+                <e p="HardSurfacePro Hidden Front Cut Out Opaque Bump.shader" t="Include" />
+                <e p="HardSurfacePro Hidden Front Cut Out Opaque Diffuse.shader" t="Include" />
+                <e p="HardSurfacePro Hidden Front Cut Out Opaque Specular.shader" t="Include" />
+                <e p="HardSurfacePro Hidden Front Cut Out Specular.shader" t="Include" />
+                <e p="HardSurfacePro Hidden Front Opaque Bump.shader" t="Include" />
+                <e p="HardSurfacePro Hidden Front Opaque Diffuse.shader" t="Include" />
+                <e p="HardSurfacePro Hidden Front Opaque Specular.shader" t="Include" />
+                <e p="HardSurfacePro Hidden Front Opaque.shader" t="Include" />
+                <e p="HardSurfacePro Hidden Front Transparent Bump.shader" t="Include" />
+                <e p="HardSurfacePro Hidden Front Transparent Diffuse.shader" t="Include" />
+                <e p="HardSurfacePro Hidden Front Transparent Specular.shader" t="Include" />
+                <e p="HardSurfacePro Hidden Front Transparent.shader" t="Include" />
+              </e>
+            </e>
+            <e p="InappPurchases.cs" t="Include" />
+            <e p="JustOneHeavyVechileOnScene.cs" t="Include" />
+            <e p="LoadingSpin.cs" t="Include" />
+            <e p="menuScripts" t="Include">
+              <e p="BIKESelection.cs" t="Include" />
+              <e p="buyPopUP.cs" t="Include" />
+              <e p="freeCoinsADpromotion.cs" t="Include" />
+              <e p="levelSelection.cs" t="Include" />
+              <e p="MainMenu.cs" t="Include" />
+              <e p="PurchaseItems.cs" t="Include" />
+              <e p="store.cs" t="Include" />
+              <e p="TotalCoins.cs" t="Include" />
+            </e>
+            <e p="Misc" t="Include">
+              <e p="Destroyer.cs" t="Include" />
+            </e>
+            <e p="moveTopoint.cs" t="Include" />
+            <e p="NitrousIndicator.cs" t="Include" />
+            <e p="playerBIKEControl.cs" t="Include" />
+            <e p="rigidbodyTravel.cs" t="Include" />
+            <e p="rigidSpeed.cs" t="Include" />
+            <e p="RoadGenerator.cs" t="Include" />
+            <e p="rockRotate.cs" t="Include" />
+            <e p="scrollUv.cs" t="Include" />
+            <e p="sideStaticObjects.cs" t="Include" />
+            <e p="skyFollow.cs" t="Include" />
+            <e p="SoundController.cs" t="Include" />
+            <e p="SpalshScreen.cs" t="Include" />
+            <e p="takeScreenShot.cs" t="Include" />
+            <e p="test.cs" t="Include" />
+            <e p="TiltTuto.cs" t="Include" />
+            <e p="trafficCar.cs" t="Include" />
+            <e p="tweens.cs" t="Include" />
+            <e p="UIControl.cs" t="Include" />
+            <e p="uvscro.cs" t="Include" />
+          </e>
+          <e p="Standard Assets" t="Include">
+            <e p="Particles" t="Include">
+              <e p="Sources" t="Include">
+                <e p="Shaders" t="Include">
+                  <e p="Particle Alpha Blend (Queue +100).shader" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Projectors" t="Include">
+              <e p="Guidelines.txt" t="Include" />
+              <e p="Sources" t="Include">
+                <e p="Shaders" t="Include">
+                  <e p="Projector Light.shader" t="Include" />
+                  <e p="Projector Multiply.shader" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="General Scripts" t="Include">
+                <e p="ActivateTrigger.cs" t="Include" />
+              </e>
+              <e p="Utility Scripts" t="Include">
+                <e p="CombineChildren.cs" t="Include" />
+                <e p="MeshCombineUtility.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Skyboxes" t="Include">
+              <e p="_skybox info.txt" t="Include" />
+            </e>
+            <e p="Toon Shading" t="Include">
+              <e p="Sources" t="Include">
+                <e p="Shaders" t="Include">
+                  <e p="Toony-Basic.shader" t="Include" />
+                  <e p="Toony-BasicOutline.shader" t="Include" />
+                  <e p="Toony-Lighted.shader" t="Include" />
+                  <e p="Toony-LightedOutline.shader" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="UI" t="Include">
+            <e p="cutoffUnlit.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="unity_testmotor2.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
